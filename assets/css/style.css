@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#CECECE;
+	background-position:top center;
+	background-repeat:no-repeat;
+	margin:0px;
+	color: #333333;
+	font-family: Verdana;
+    font-size: 11px;	
+}
+
+*{
+margin:0;
+padding:0;
+}
+
+.header{
+	height:190px;
+	width:100%; 
+	padding-top:6px;
+	color:#FFF;
+}
